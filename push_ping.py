@@ -25,4 +25,4 @@ g.labels(url2,city2).dec(2)  #dec递减2
 g.labels(url3, city2).inc()  #inc递增，默认增1
 
 push_to_gateway(target, job='ping_status', registry=registry)
-
+# zhenjia
